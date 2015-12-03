@@ -15,5 +15,6 @@ select LayerTransform(
   transformtype：加/纠偏方式，支持以下6种'BD2GCJ', 'GCJ2BD', 'WGS2GCJ','GCJ2WGS','BD2WGS','WGS2BD'，分别代表 百度转谷歌高德，谷歌高德转百度，84转火星，火星转84，百度转84,84转百度。
 ## 效果图
   gcs坐标，转换前与osm叠加  
-  
-  
+  ![转换前](http://img.blog.csdn.net/20151203104302079)  
+  ![转换中](http://img.blog.csdn.net/20151203104420291)   
+  ![转换后](http://img.blog.csdn.net/20151203104452730)
